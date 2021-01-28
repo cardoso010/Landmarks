@@ -83,6 +83,7 @@
 		C483424525C34F1B00F1DABF /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ProfileSummary.swift; path = ../../../../../../ProfileSummary.swift; sourceTree = "<group>"; };
 		C483424A25C34F6200F1DABF /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = HikeBadge.swift; path = ../../../../../../HikeBadge.swift; sourceTree = "<group>"; };
 		C483424F25C351E300F1DABF /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
+		C483425425C353D800F1DABF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C4E054C125C0B88100CF514B /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4E054C425C0B88100CF514B /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		C4E054C625C0B88100CF514B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -195,6 +196,7 @@
 		C4E054B825C0B88100CF514B = {
 			isa = PBXGroup;
 			children = (
+				C483425425C353D800F1DABF /* README.md */,
 				C4E054C325C0B88100CF514B /* Landmarks */,
 				C4E054D525C0B88400CF514B /* LandmarksTests */,
 				C4E054E025C0B88400CF514B /* LandmarksUITests */,
